@@ -1,0 +1,39 @@
+@font-face {
+	font-family : ‘내맘대로 폰트 이름 정하기’;
+	src: local (‘Nanumsquare’), url (폰트파일 경로 지정하기);	
+}
+
+
+.cover {
+    background-image: url(img/background.jpg);
+    background-size: 100%;
+    background-position: center;
+    color: white;
+}
+/*
+.smaall {
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+*/
+
+.fish-img img {
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin: 30px auto 30px auto;
+    
+}
+
+.form-background {
+    background-color: #888888;;
+    color: white;
+    
+}
+
+.productso-img {
+    width: 100%
+}
